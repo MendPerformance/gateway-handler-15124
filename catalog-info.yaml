@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gateway-handler-15124
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/gateway-handler-15124
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
